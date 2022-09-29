@@ -4,7 +4,7 @@
 <<<<<<< HEAD
 <p><b>LIVE LINK:</b> <a href="ahmedtakeshy.github.io/Calculator/">https://ahmedtakeshy.github.io/Calculator/</a></p>
 =======
-<p><b>LIVE LINK:</b> <a href="[ahmedtakeshy.github.io/Calculator/](https://ahmedtakeshy.github.io/simple-Calculator/)">https://ahmedtakeshy.github.io/simple-Calculator/ </a></hp>
+<p><b>LIVE LINK:</b> <a href="ahmedtakeshy.github.io/Calculator/">https://ahmedtakeshy.github.io/simple-Calculator/ </a></p>
 >>>>>>> 50330de9f1267ff6c3caf2405832bba1a8d82d62
 <h2>Features</h2>
 <ul>
