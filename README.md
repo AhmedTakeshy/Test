@@ -1,7 +1,7 @@
 <h1><strong>Simple-Calculator</strong></h1>
 <h2>Overview</h2>
 <p>This app is a Calculator created to calculation process</p>
-<p><b>LIVE LINK:</b> <a href="ahmedtakeshy.github.io/Calculator/">https:https://ahmedtakeshy.github.io/simple-Calculator/ </a></hp>
+<p><b>LIVE LINK:</b> <a href="[ahmedtakeshy.github.io/Calculator/](https://ahmedtakeshy.github.io/simple-Calculator/)">https:https://ahmedtakeshy.github.io/simple-Calculator/ </a></hp>
 <h2>Features</h2>
 <ul>
   <li>Easy to use it</li>
